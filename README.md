@@ -6,7 +6,7 @@ This spreadsheet lists every app in the dataset, along with their LLM integratio
 
 ## App_Descriptions_and_Assigned_Functionality.xlsx
 
-This spreadsheet lists the repository description (if available) of each app in the dataset, and their corresponding assigned main functionality. We manually assign functionalities to apps without a repository description.
+This spreadsheet lists the repository description (if available) of each app in the dataset, and their corresponding assigned main functionality. We manually assign functionalities to apps without a repository description by carefully looking into their readme files. 
 
 ## Commit_Messages_and_Assigned_Topics.xlsx
 
